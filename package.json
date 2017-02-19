@@ -1,0 +1,22 @@
+{
+  "name": "fireant-timestamp",
+  "version": "1.0.0",
+  "description": "Small utility to display timestamp in console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireantjs/fireant-timestamp.git"
+  },
+  "author": "Jari Lehtinen <jari@feature.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fireantjs/fireant-timestamp/issues"
+  },
+  "homepage": "https://github.com/fireantjs/fireant-timestamp#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
